@@ -6,3 +6,6 @@ num2 = float(input("Ingresa el segundo número: "))
 resultado = num1 + num2
 
 print(f"El resultado es: {resultado}")
+
+resta = num1 - num2
+print(f"La resta es {resultado}")
